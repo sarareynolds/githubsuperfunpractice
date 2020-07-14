@@ -1,0 +1,1 @@
+select * from PracticeTable with (nolock) where Message = 'This is going to be fun!'
