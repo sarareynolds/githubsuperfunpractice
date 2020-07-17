@@ -1,1 +1,1 @@
-select * from PracticeTable with (nolock) where Message = 'This is going to be fun!'
+select * from PracticeTable with (nolock) where Message = order Top 100
